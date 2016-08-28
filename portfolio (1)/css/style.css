@@ -1,0 +1,46 @@
+.background{
+  background-color: #c2c2a3;
+  color: #ffffff;
+  
+  
+}
+
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 3px;
+    font-family: Sans-serif;
+    
+}
+
+.navbar-nav li a:hover {
+    color: #FFCC00 ;
+}
+
+
+  
+  
+  
+}
+    .bg-2 { 
+    background-color: #474e5d; 
+    color: #ffffff;
+      
+}
+.bg-3 { 
+    background-color: #c2c2a3; 
+    color: #555555;
+}
+.container-fluid{
+  padding-top: 90px;
+  padding-bottom: 90px;
+   
+}
+.img-thumbnail:hover {
+  
+}

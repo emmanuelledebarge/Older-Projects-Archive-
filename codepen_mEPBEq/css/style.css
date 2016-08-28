@@ -1,0 +1,61 @@
+p, .container-fluid {
+  margin-right: 10px;
+  margin-left: 10px;
+  
+}
+body {
+  margin:auto 10 10;
+  text-align:center;
+  position: auto;
+  
+  background-image: url(https://image.freepik.com/free-vector/science-elements-with-test-tubes-and-molecules_23-2147491185.jpg)
+}
+.well {
+  margin-right:6%;
+  margin-left: 6%;
+  
+}
+
+
+
+
+button {
+display: inline-block;
+  height: 50px;
+  line-height: 50px;
+  padding-right: 25px;
+  padding-left: 25px;
+  position: relative;
+  background-color:rgb(41,127,184);
+  color:rgb(255,255,255);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  margin-bottom: 14px;
+}
+.well {
+  
+}
+h1 {
+font-family: 'Montserrat', sans-serif;
+  color:rgb(41,127,184);
+  font-size: 30px;
+}
+
+#buttons {
+  font-size:20px;
+  
+}
+#buttons > a {
+  background:orange;
+  display:block;
+  width:60px;
+  margin:auto;
+  height:30px;
+  border-radius:20px;
+  cursor: pointer;
+  color:blue;
+}
+#buttons > a:hover {
+  background:white;
+}
