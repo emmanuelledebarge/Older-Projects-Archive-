@@ -1,0 +1,26 @@
+body {
+  background-image:url("http://static.tumblr.com/vy2pzfk/46zls6lto/deserve_bg.jpg");
+    color:white;
+  font-family:Times New Roman;
+}
+
+.header{
+  text-align:center;
+  background:rgba(0, 0, 0, .5);
+  
+  border:2px white solid;
+ 
+}
+img {
+  width:75px;
+  border-radius:50%;
+  
+}
+.col-md-4 {
+  padding:2px;
+  
+}
+.row {
+  background:rgba(0,0,0,0);
+ 
+}
